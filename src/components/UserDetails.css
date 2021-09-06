@@ -1,0 +1,39 @@
+.detailsCard {
+  display: flex;
+  justify-content: space-between;
+  align-items:flex-start;
+  padding: 5px;
+  border: 1px solid black;
+}
+.detailsLeft{
+    display: flex;
+    justify-content: start;
+    margin-left: 0px;
+}
+.detailsRight{
+    display: flex;
+    justify-content: start;
+    margin-left: 0px;
+}
+
+.left_heading {
+  display: block;
+  justify-content: start;
+  align-items: center;
+}
+.left_heading > p {
+  margin: 0;
+  padding: 3px;
+  font-size: 14px;
+}
+.right_heading {
+  display: block;
+  justify-content: start;
+  align-items: center;
+  margin-left: 3px; 
+}
+.right_heading > p {
+  margin: 0;
+  padding: 3px;
+  font-size: 14px;
+}

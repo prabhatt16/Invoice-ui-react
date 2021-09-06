@@ -1,0 +1,10 @@
+.btn{
+   padding: 12px;
+   background-color:rgba(255, 166, 0, 0.322); 
+   color: #000;
+   width: 100px;
+   height: 40px;
+   margin: 0 auto;
+   display: block;
+   font-size: 14px;
+}

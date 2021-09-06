@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.header>img{
+    width: 200px;
+    height: 80px;
+}
+.orderNo>p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.orderNo>img{
+    width: 120px;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+}

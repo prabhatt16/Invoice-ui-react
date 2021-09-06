@@ -1,0 +1,8 @@
+.remark{
+    height: 170px;
+    width: 100%;
+    border: 1px solid black;
+}
+.remark>p{
+    margin-left: 12px;
+}

@@ -1,0 +1,24 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+table {
+  height: 300px;
+  max-width: 100%;
+}
+.midTr > td {
+  padding: 0px 15px 0px 15px;
+  border-bottom: none;
+}
+th {
+  padding: 15px;
+  height: 1px;
+}
+.itemImage {
+  max-height: 50px;
+  max-width: 100px;
+  object-fgit initit: cover;
+}
